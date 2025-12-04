@@ -1,5 +1,9 @@
 # README
 
+# App que consume un API de Rick and Morty
+
+![Imagen 001](/src/principal.png)
+
 ## Descripción de la App
 
 La aplicación se compone de tres pestañas: **Personajes**, **Mapa** y **Favoritos**.
