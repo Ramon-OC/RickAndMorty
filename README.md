@@ -93,3 +93,7 @@ Vista con la lista de los personajes favoritos:
 Configuración de FaceID en el simulador:
 
 ![Imagen 001](/src/face-id.png)
+
+Si tiene algún problema sobre cómo moverse en la aplicación o algo relacionado a su funcionamiento, no dude en contactarme :))) (trataré de responder a la brevedad jeje) rick@ramooon.com
+
+Muchas gracias por leer esto. Espero que le guste la app!
